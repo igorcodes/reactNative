@@ -1,2 +1,2 @@
 # reactNative
-APP ReactNative
+APP ReactNative, new project
